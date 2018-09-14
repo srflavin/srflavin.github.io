@@ -49,7 +49,7 @@ div {
   width: 45px;
   background-color: #666699;
   float: right;
-  position: fixed;
+  position: inherit;
 }
 
 .stuff {
