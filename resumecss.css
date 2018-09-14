@@ -45,7 +45,7 @@ div {
 }
 
 .right {
-  height: 1050px;
+  height: 1000px;
   width: 45px;
   background-color: #666699;
   float: right;
@@ -76,4 +76,3 @@ li {
   margin-top: 10px;
   margin-right: 4%;
 }
-
