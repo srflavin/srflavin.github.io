@@ -37,7 +37,7 @@ div {
 }
 
 .left {
-  height: 1050px;
+  height: 1150px;
   width: 45px;
   background-color: #666699;
   float: left;
@@ -45,7 +45,7 @@ div {
 }
 
 .right {
-  height: 1105px;
+  height: 1150px;
   width: 45px;
   background-color: #666699;
   float: right;
