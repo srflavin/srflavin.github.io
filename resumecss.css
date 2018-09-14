@@ -44,11 +44,11 @@ div {
   position: fixed;
 }
 
-.right{
-  height:1050px;
-  width:45px;
-  background-color:#666699;
-  float:right;
+.right {
+  height: 1500px;
+  width: 45px;
+  background-color: #666699;
+  float: right;
   position: inherit;
 }
 
